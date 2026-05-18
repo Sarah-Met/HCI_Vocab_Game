@@ -27,6 +27,7 @@ Thumbs.db
 # C# / .NET
 [Bb]in/
 [Oo]bj/
+!hci project/hci project/pro hci2/pro hci/lab1 hci/bin/Debug/
 .vs/
 *.user
 *.suo
