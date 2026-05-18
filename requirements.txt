@@ -1,0 +1,9 @@
+bleak
+opencv-python
+mediapipe
+SpeechRecognition
+pyttsx3
+dollarpy
+ultralytics
+jupyter
+numpy
