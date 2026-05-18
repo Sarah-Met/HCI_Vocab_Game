@@ -1,0 +1,64 @@
+{
+    "subjects": [
+        "I",
+        "You",
+        "He",
+        "She"
+    ],
+    "verbs": [
+        "eat",
+        "read",
+        "kick",
+        "drink"
+    ],
+    "objects": [
+        "apple",
+        "book",
+        "ball",
+        "milk"
+    ],
+    "levels_boy": [
+        {
+            "subject": "I",
+            "verb": "eat",
+            "object": "apple"
+        },
+        {
+            "subject": "He",
+            "verb": "kick",
+            "object": "ball"
+        },
+        {
+            "subject": "You",
+            "verb": "read",
+            "object": "book"
+        },
+        {
+            "subject": "She",
+            "verb": "drink",
+            "object": "milk"
+        }
+    ],
+    "levels_girl": [
+        {
+            "subject": "You",
+            "verb": "read",
+            "object": "book"
+        },
+        {
+            "subject": "She",
+            "verb": "drink",
+            "object": "milk"
+        },
+        {
+            "subject": "I",
+            "verb": "eat",
+            "object": "apple"
+        },
+        {
+            "subject": "He",
+            "verb": "kick",
+            "object": "ball"
+        }
+    ]
+}
