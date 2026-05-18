@@ -23,3 +23,10 @@ __pycache__/
 # OS generated files
 .DS_Store
 Thumbs.db
+
+# C# / .NET
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
